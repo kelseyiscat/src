@@ -1,12 +1,12 @@
-# Basic React App
+# Basic React App ⚛️
 
-A simple React application featuring an interactive counter and a personalized greeting.
+A simple React application featuring an interactive counter and a personalized greeting. ✨
 
-## Features
+## Features 🚀
 
-- **Counter**: Increment, decrement, and reset a running count.
-- **Name Greeting**: Enter your name and get a personalized "Hello" message.
-- **Responsive UI**: Centered layout with a dark theme and smooth hover transitions.
+- **Counter** 🔢: Increment, decrement, and reset a running count.
+- **Name Greeting** 👋: Enter your name and get a personalized "Hello" message.
+- **Responsive UI** 📱: Centered layout with a dark theme and smooth hover transitions.
 
 ## Getting Started
 
