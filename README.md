@@ -52,3 +52,7 @@ The app will open in your default browser at [http://localhost:3000](http://loca
 ## License
 
 This project is open source and available under the [MIT License](https://opensource.org/licenses/MIT).
+
+---
+
+*Built with ❤️ using React*
