@@ -1,4 +1,4 @@
-# Basic React App ⚛️
+# Basic React App ⚛️ 🐱
 
 A simple React application featuring an interactive counter and a personalized greeting.
 
