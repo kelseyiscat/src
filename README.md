@@ -2,6 +2,14 @@
 
 A simple React application featuring an interactive counter and a personalized greeting.
 
+## Table of Contents
+
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Project Structure](#project-structure)
+- [Technologies Used](#technologies-used)
+- [License](#license)
+
 ## Features
 
 - **Counter**: Increment, decrement, and reset a running count.
